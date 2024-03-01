@@ -11,7 +11,7 @@ If you want to change the custom firmware you need to change the "CustomFW.h" fi
 
 Folder "Wifi_Toothbrush_firmware" is the custom firmware itself, make sure to select ESP32-C3 as the board and set the Patition sheme to custom so it will fit with the stock firmware layout.
 
-To get DOOM running on your Toothbrush use the README in the Folder "DOOM_Compiled"
+## To get DOOM running on your Toothbrush use the README in the Folder "DOOM_Compiled"
 
 This repo is made together with this explanation video:(click on it)
 [![YoutubeVideo](https://img.youtube.com/vi/cO-Are8053g/0.jpg)](https://www.youtube.com/watch?v=cO-Are8053g)
